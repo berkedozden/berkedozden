@@ -3,9 +3,9 @@
 ![Web Developer, Self-Learner, Socio-Cultural and Historical Researcher](https://pbs.twimg.com/profile_banners/1105570257622786049/1608008675/1500x500)
 
 
-##### Skills: 
-Python, Django, HTML, CSS, Bootstrap
-Numpy, Pandas, Seaborn, Matplotlib, SQL 
+##### Skills: <br/>  
+Python, Django, HTML, CSS, Bootstrap <br/> 
+Numpy, Pandas, Seaborn, Matplotlib, SQL <br/> 
 and more is coming.
 
 - 🌱 I’m currently learning JavaScript and React
